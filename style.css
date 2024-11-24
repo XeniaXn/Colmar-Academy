@@ -15,10 +15,7 @@ heading{
   .navbarlist {
   padding:16px;
   }
-@media (mid-width:30cm) {
-  .navbarlist{
-    
-  }
+
     
 
 .blockone {
@@ -37,11 +34,11 @@ heading{
 }
 
   .coursetiles{
-list-style: none;
 display:grid;
+grid-template-columns: repeat(3, 1fr);
 gap: 32px;
-    
-  }
+      }
+
 .thesis {
 
 }
