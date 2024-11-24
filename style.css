@@ -1,14 +1,46 @@
 body  {
+  
 }
 
-h1{
+heading{
+
+}
+.navbar{
+ height:64px;
+ text-align: center;
+ padding: 24px 32px;
+   
+}
+  .navbarlist {
+  padding:16px;
+  }
+
+.blockone {
+  
 }
 
-h2 {
+.information {
+ 
+}
+  .informationtiles{
+  
+  }
+  
+.course {
+
 }
 
-h3 {
+  .coursetiles{
+
+  }
+.thesis {
+
 }
 
+  .thesistiles{
+  
+  }
 .footer {
+  padding: 24px 16px;
 }
+
